@@ -1,10 +1,10 @@
 /**
  **********************************************************************************************************************
  * @file       Maze.pde
- * @author     Elie Hymowitz, Steve Ding, Colin Gallacher
+ * @author     Ashirbad Pradhan, Ana Lucia
  * @version    V4.0.0
  * @date       08-January-2021
- * @brief      Maze game example using 2-D physics engine
+ * @brief      Pacman game example using 2-D physics engine
  **********************************************************************************************************************
  * @attention
  *
