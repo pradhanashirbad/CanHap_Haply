@@ -1,6 +1,6 @@
 /**
  **********************************************************************************************************************
- * @file       Maze.pde
+ * @file       pacman_ash.pde
  * @author     Ashirbad Pradhan, Ana Lucia
  * @version    V4.0.0
  * @date       08-January-2021
