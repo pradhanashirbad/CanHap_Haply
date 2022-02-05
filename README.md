@@ -1,5 +1,5 @@
 # CanHap_Haply
 Pacman game
 
-The main code is the "sketch_6_Ash.pde"<br/>
+The main code is the "pacman_ash.pde"<br/>
 For details visit https://canhapticslab.wordpress.com/2022/02/04/lab-2/
