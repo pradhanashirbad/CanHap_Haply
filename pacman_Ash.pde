@@ -7,6 +7,8 @@
  * @brief      Pacman game example using 2-D physics engine
  **********************************************************************************************************************
  * @attention
+ * The code is based on the hello maze fisica available on the Haply Website. 
+ * All credit goes to the original authors.
  *
  *
  **********************************************************************************************************************
